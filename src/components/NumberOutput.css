@@ -1,0 +1,13 @@
+.numberOutput{
+    background-color: black;
+    color: white;
+    width: 620px;
+    height: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: inset;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: end;
+}

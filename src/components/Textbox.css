@@ -1,0 +1,9 @@
+.textbox{
+    color: white;
+    margin-bottom: 10px;
+    background-color: #4357692d;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
